@@ -2,7 +2,6 @@
     "url": "https://nowasp.ebooki.nowaera.pl/viewer/page/Chemia/kl8/books/1134/1/1134-v1_epub/OEBPS/Images/D65272%20chemia8klPodrecznik%20Neon%20flipbook-XXX.jpg",
     "number_of_pages": 272,
     "download_folder": "./images",
-    "output_pdf": "./nowaerachemia8.pdf",
     "cookies": {
         "ne-authidsrv": "your actual cookie"
     }
